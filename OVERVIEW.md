@@ -1,17 +1,17 @@
-# Launch Icon Badge
+# Icon Badge
 
 ## Quick overview
 
 The task available in this extension is:
 
-- LaunchIconBadge
+- IconBadge
 
-Check the [Github](https://github.com/damienaicheh/azure-devops-launch-icon-badge) repository for more informations!
+Check the [Github](https://github.com/VladislavAntonyuk/azure-devops-launch-icon-badge) repository for more informations!
 
 ## Basic usage
 
 ```yml
-- task: LaunchIconBadge@1
+- task: IconBadge@1
   inputs:
     sourceFolder: '$(Build.SourcesDirectory)' # Optional. Default is: $(Build.SourcesDirectory)
     contents: '**/*.png' # Optional. Default is:  '**/*.png'

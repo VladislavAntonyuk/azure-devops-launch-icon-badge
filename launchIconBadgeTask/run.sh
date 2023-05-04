@@ -1,5 +1,5 @@
-export INPUT_SourceFolder="./../samples/icons" &&
-export INPUT_Contents="**/*.png" &&
+export INPUT_SourceFolder="./../samples/AppIcon" &&
+export INPUT_Contents="**/*.*" &&
 export INPUT_BannerVersionNamePosition="topRight" &&
 export INPUT_BannerVersionNumberPosition="center" &&
 export INPUT_BannerVersionNameText="mvp" &&

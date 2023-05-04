@@ -1,9 +1,9 @@
 {
     "manifestVersion": 1,
-    "id": "launch-icon-task",
-    "name": "Launch Icon Badge",
-    "version": "1.0.10",
-    "publisher": "damienaicheh",
+    "id": "launch-icon-badge-task",
+    "name": "Icon Badge",
+    "version": "1.0.0",
+    "publisher": "VladislavAntonyuk",
     "public": true,
     "targets": [
         {
@@ -19,8 +19,12 @@
     ],
     "tags": [
         "mobile",
+        "maui",
         "ios",
-        "android"
+        "android",
+        "maccatalyst",
+        "tizen",
+        "windows"
     ],
     "content": {
         "details": {
@@ -32,12 +36,12 @@
     },
     "links": {
         "support": {
-            "uri": "https://github.com/damienaicheh/azure-devops-launch-icon-badge/issues"
+            "uri": "https://github.com/VladislavAntonyuk/azure-devops-launch-icon-badge/issues"
         }
     },
     "repository": {
         "type": "git",
-        "uri": "https://github.com/damienaicheh/azure-devops-launch-icon-badge"
+        "uri": "https://github.com/VladislavAntonyuk/azure-devops-launch-icon-badge"
     },
     "files": [
         {

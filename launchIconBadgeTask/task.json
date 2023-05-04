@@ -1,8 +1,8 @@
 {
     "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
-    "id": "47e467b7-678d-4fc7-843d-3b6728bab109",
-    "name": "LaunchIconBadge",
-    "friendlyName": "Launch Icon Badge",
+    "id": "448266c8-7bbb-4539-a2bd-ab7c08340063",
+    "name": "IconBadge",
+    "friendlyName": "Icon Badge",
     "description": "Draw badge in your application launch icon.",
     "helpMarkDown": "",
     "category": "Build",
@@ -10,11 +10,11 @@
         "Build",
         "Release"
     ],
-    "author": "Damien Aicheh",
+    "author": "Vladislav Antonyuk",
     "version": {
         "Major": 1,
         "Minor": 0,
-        "Patch": 10
+        "Patch": 0
     },
     "inputs": [
         {
